@@ -125,7 +125,7 @@ Evaluating regression models properly
 🧠 Regression concept practice
 
 👤 Author
-<p align="center"> <img src="profile.jpg" width="140" style="border-radius:50%;" /> </p> <p align="center"> <b>Nandan</b><br> 📌 AI & Machine Learning Enthusiast </p> <p align="center"> <a href="https://github.com/Nandan0402"> <img src="https://img.shields.io/badge/GitHub-Nandan0402-black?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/nandan0402"> <img src="https://img.shields.io/badge/LinkedIn-Nandan-blue?style=for-the-badge&logo=linkedin"/> </a> </p>
+<img src="https://avatars.githubusercontent.com/Nandan0402" width="120" style="border-radius: 50%;" />
 ⭐ Conclusion
 
 This project emphasizes strong fundamentals over shortcuts, making it ideal for students and beginners aiming to understand how Machine Learning works internally.
