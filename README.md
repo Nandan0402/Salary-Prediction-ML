@@ -125,7 +125,9 @@ Evaluating regression models properly
 🧠 Regression concept practice
 
 👤 Author
+
 <img src="https://avatars.githubusercontent.com/Nandan0402" width="120" style="border-radius: 50%;" />
+
 ⭐ Conclusion
 
 This project emphasizes strong fundamentals over shortcuts, making it ideal for students and beginners aiming to understand how Machine Learning works internally.
